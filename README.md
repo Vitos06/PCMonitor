@@ -133,6 +133,7 @@ If you like this project:
 * Star the repository
 * Share it
 * Suggest improvements
+* Code signing provided by the SignPath Foundation.
 
 ---
 
